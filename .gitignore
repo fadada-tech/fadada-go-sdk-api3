@@ -1,0 +1,24 @@
+# Created by .ignore support plugin (hsz.mobi)
+### fdd-ignore-template template
+# Maven
+target/
+*.ser
+*.ec
+
+# IntelliJ Idea
+.idea/
+out/
+*.ipr
+*.iws
+*.iml
+*.exe
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# OS X
+.DS_Store
+
